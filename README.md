@@ -1,4 +1,1 @@
-# lang
-learning different languages
-
-This is the directory learning different languages.
+This is a place that I learn new language, tools.
